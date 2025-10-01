@@ -1,0 +1,29 @@
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":32356,"level":30,"msg":"Login attempt at 2025-09-30T01:01:01.980Z","time":"2025-09-30T01:01:01.981Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":32356,"level":30,"msg":"Authenticated request at 2025-09-30T01:06:22.702Z","time":"2025-09-30T01:06:22.702Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":5572,"level":30,"msg":"Authenticated request at 2025-09-30T18:38:09.116Z","time":"2025-09-30T18:38:09.116Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":13748,"level":30,"msg":"Authenticated request at 2025-09-30T18:41:49.540Z","time":"2025-09-30T18:41:49.541Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":13748,"level":30,"msg":"Authenticated request at 2025-09-30T18:42:32.415Z","time":"2025-09-30T18:42:32.415Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":2784,"level":30,"msg":"Authenticated request at 2025-09-30T18:46:25.083Z","time":"2025-09-30T18:46:25.084Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":16332,"level":30,"msg":"Authenticated request at 2025-09-30T18:48:16.017Z","time":"2025-09-30T18:48:16.017Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":16332,"level":30,"msg":"Authenticated request at 2025-09-30T18:48:17.463Z","time":"2025-09-30T18:48:17.463Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":16332,"level":30,"msg":"Authenticated request at 2025-09-30T18:48:18.473Z","time":"2025-09-30T18:48:18.473Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":26588,"level":30,"msg":"Authenticated request at 2025-10-01T01:54:43.076Z","time":"2025-10-01T01:54:43.076Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":29004,"level":30,"msg":"Authenticated request at 2025-10-01T01:57:01.454Z","time":"2025-10-01T01:57:01.454Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":26256,"level":30,"msg":"Authenticated request at 2025-10-01T02:07:21.179Z","time":"2025-10-01T02:07:21.179Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":26496,"level":30,"msg":"Authenticated request at 2025-10-01T02:16:06.449Z","time":"2025-10-01T02:16:06.450Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":22888,"level":30,"msg":"Authenticated request at 2025-10-01T02:20:19.296Z","time":"2025-10-01T02:20:19.296Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":1652,"level":30,"msg":"Authenticated request at 2025-10-01T02:20:55.902Z","time":"2025-10-01T02:20:55.903Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":3348,"level":30,"msg":"Authenticated request at 2025-10-01T02:23:06.112Z","time":"2025-10-01T02:23:06.112Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":27856,"level":30,"msg":"Authenticated request at 2025-10-01T02:29:05.000Z","time":"2025-10-01T02:29:05.000Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":26012,"level":30,"msg":"Authenticated request at 2025-10-01T02:30:57.597Z","time":"2025-10-01T02:30:57.597Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":26012,"level":50,"success":false,"message":"Token expired The \"chunk\" argument must be of type string or an instance of Buffer or Uint8Array. Received an instance of Object","time":"2025-10-01T02:30:57.598Z","msg":"","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":23904,"level":30,"msg":"Authenticated request at 2025-10-01T02:33:56.627Z","time":"2025-10-01T02:33:56.627Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":5332,"level":30,"msg":"Authenticated request at 2025-10-01T02:36:38.285Z","time":"2025-10-01T02:36:38.285Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":5332,"level":50,"msg":"Token expired The \"chunk\" argument must be of type string or an instance of Buffer or Uint8Array. Received an instance of Object at 2025-10-01T02:36:38.286Z","time":"2025-10-01T02:36:38.286Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":25940,"level":30,"msg":"Authenticated request at 2025-10-01T02:37:56.962Z","time":"2025-10-01T02:37:56.962Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":25940,"level":50,"msg":"Token expired The \"chunk\" argument must be of type string or an instance of Buffer or Uint8Array. Received an instance of Object at 2025-10-01T02:37:56.963Z","time":"2025-10-01T02:37:56.963Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":24632,"level":30,"msg":"Authenticated request at 2025-10-01T03:06:11.261Z","time":"2025-10-01T03:06:11.262Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":24632,"level":30,"msg":"Authenticated request at 2025-10-01T03:07:17.500Z","time":"2025-10-01T03:07:17.500Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":24632,"level":30,"msg":"Authenticated request at 2025-10-01T03:07:18.989Z","time":"2025-10-01T03:07:18.989Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":24632,"level":30,"msg":"Authenticated request at 2025-10-01T03:07:20.785Z","time":"2025-10-01T03:07:20.785Z","v":0}
+{"name":"appLogger","hostname":"DESKTOP-QRTFPRR","pid":26032,"level":30,"msg":"Authenticated request at 2025-10-01T03:09:18.695Z","time":"2025-10-01T03:09:18.695Z","v":0}
